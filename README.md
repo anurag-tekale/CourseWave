@@ -28,6 +28,9 @@ CourseWave offers the following key features:
 - **Data Storage:**
   - Data is stored in MongoDB, a robust NoSQL database, for scalability and performance.
 
+- **State Management:**
+  - Recoil State Management.
+
 ## Getting Started
 
 Follow these steps to get CourseWave up and running on your local machine or server.
