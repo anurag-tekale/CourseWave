@@ -1,0 +1,19 @@
+{
+  "name": "coursewave",
+  "version": "1.0.0",
+  "description": "A website where you can sell your course or purchase course of your favorite mentor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anurag-tekale/CourseWave.git"
+  },
+  "author": "Anurag Tekale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anurag-tekale/CourseWave/issues"
+  },
+  "homepage": "https://github.com/anurag-tekale/CourseWave#readme"
+}
