@@ -1,6 +1,6 @@
 # CourseWave - Your Online Course Selling Platform
 
-Welcome to CourseWave. This platform allows both administrators and users to create accounts, log in, manage courses, and access purchased content. Below, you'll find an overview of CourseWave's features and instructions for getting started.
+Welcome to CourseWave. This platform allows both administrators and users to create accounts, log in, manage courses, and access purchased content. Below, you'll find an overview of CourseWave's features and instructions for getting started. Yet to be hosted as I'm working on the frontend
 
 ## Table of Contents
 
